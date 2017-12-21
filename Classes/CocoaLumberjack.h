@@ -72,11 +72,11 @@
 #import "DDAssertMacros.h"
 
 // Capture ASL
-#import "DDASLLogCapture.h"
+//#import "DDASLLogCapture.h"
 
 // Loggers
 #import "DDTTYLogger.h"
-#import "DDASLLogger.h"
+//#import "DDASLLogger.h"
 #import "DDFileLogger.h"
 #import "DDOSLogger.h"
 
